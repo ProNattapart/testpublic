@@ -1,1 +1,2 @@
-print(6)
+import pandas
+print(12)
